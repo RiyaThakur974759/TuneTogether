@@ -1,2 +1,11 @@
 # TuneTogether
-TuneTogether is an innovative app that allows users to listen to music simultaneously. The app is deployed on the Google Cloud Platform, which provides a reliable and scalable infrastructure for hosting the app.
+CS 552 Group 7
+
+
+The following is an application that can sync multiple users play the same song in sync with eachother.
+
+To run the following web application follow the below steps:
+1. Install Apache
+2. Install Node.js
+3. Clone the contents of the repo
+4. run: node server.js
